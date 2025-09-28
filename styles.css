@@ -85,7 +85,7 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Responsive Fixes (if needed) */
+/* Responsive Fixes  */
 @media (max-width: 768px) {
   .hero h1 {
     font-size: 2.2rem;
